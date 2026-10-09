@@ -1,6 +1,6 @@
 # Project 1: Student Performance Prediction System
 
-**Name:** <your name>  |  **Roll No:** <your roll number>
+**Name:** Rajendra Singh Bisht  |  **Roll No:** 253026065
 MCA 3rd Semester (2026-2027), COER University, Roorkee | Lab Sheet-06
 
 ## What it does
@@ -49,10 +49,3 @@ python student_performance.py      # trains, evaluates and saves the models
 python predict.py                  # demo: predict for one student
 ```
 
-## Results
-
-<After you run it, write your best model names and their scores here.>
-
-## Conclusion
-
-<Write 2-3 lines in your own words.>
