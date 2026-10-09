@@ -2,7 +2,7 @@
 # **Problem:** Predict a student's academic performance from attendance, internal
 # marks, assignments, study hours and the previous semester result.
 #
-# We solve it in two ways:
+# i have solve it in two ways:
 # 1. **Regression**: predict the exact final marks (0-100).
 # 2. **Classification**: predict the performance level (At Risk / Average / Excellent).
 #
