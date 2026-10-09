@@ -1,6 +1,6 @@
 # Project 2: House Price Prediction System
 
-**Name:** <your name>  |  **Roll No:** <your roll number>
+**Name:** Rajendra Singh Bisht  |  **Roll No:** 253026065
 MCA 3rd Semester (2026-2027), COER University, Roorkee | Lab Sheet-06
 
 ## What it does
