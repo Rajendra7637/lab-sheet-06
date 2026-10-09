@@ -1,5 +1,5 @@
 # Lab Sheet-06: Mini Projects on Supervised Learning
-Rajendra Singh Bisht
+Rajendra Singh Bisht | Roll no. 253028065 |
 MCA 3rd Semester (2026-2027), COER University, Roorkee
 
 | Project | Problem | Type |
