@@ -1,0 +1,31 @@
+{
+  "regression_model": "Linear Regression",
+  "regression_metrics": {
+    "MAE": 2.9536,
+    "MSE": 13.8049,
+    "RMSE": 3.7155,
+    "R2 (test)": 0.8994,
+    "R2 (5-fold CV)": 0.8547
+  },
+  "classification_model": "Logistic Regression",
+  "classification_metrics": {
+    "Accuracy": 0.88,
+    "Precision": 0.8845,
+    "Recall": 0.88,
+    "F1-score": 0.8806,
+    "Accuracy (5-fold CV)": 0.87
+  },
+  "feature_columns": [
+    "attendance_pct",
+    "internal_marks",
+    "assignment_score",
+    "study_hours_per_day",
+    "previous_sem_result",
+    "extra_classes"
+  ],
+  "levels": [
+    "At Risk",
+    "Average",
+    "Excellent"
+  ]
+}

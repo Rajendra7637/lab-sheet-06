@@ -1,0 +1,28 @@
+{
+  "model": "Ridge Regression",
+  "metrics": {
+    "MAE": 6.4831,
+    "MSE": 80.5588,
+    "RMSE": 8.9755,
+    "MAPE %": 9.9857,
+    "R2 (train)": 0.9102,
+    "R2 (test)": 0.8585,
+    "R2 (5-fold CV)": 0.9034
+  },
+  "feature_columns": [
+    "area_sqft",
+    "bedrooms",
+    "bathrooms",
+    "parking",
+    "age_years",
+    "location"
+  ],
+  "locations": [
+    "City Centre",
+    "Near Highway",
+    "New Township",
+    "Old Town",
+    "Suburb North",
+    "Suburb South"
+  ]
+}
