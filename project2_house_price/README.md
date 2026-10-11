@@ -14,7 +14,7 @@ bathrooms, parking spaces, age, and location.
 |---|---|
 | `house_price_prediction.ipynb` | project notebook. |
 | `datasets/house_prices.csv` | The dataset (about 600 houses). |
-| `models/` | The saved model (made when you run the project). |
+| `models/` | The saved model . |
 | `outputs/` | The graphs (made when you run the project). |
 
 ## Steps in the project
