@@ -16,11 +16,8 @@ It does this in two ways:
 
 | File | What it does |
 |---|---|
-| `student_performance.py` | The full project (one cell per step). |
-| `notebooks/student_performance.ipynb` | The same project as a notebook. |
-| `predict.py` | Type a student's details and get a prediction (for the demo). |
+| `notebooks/student_performance.ipynb` | project notebook. |
 | `datasets/student_performance.csv` | The dataset (about 500 students). |
-| `scripts/generate_dataset.py` | Creates the dataset again if it is deleted. |
 | `models/` | The saved models (made when you run the project). |
 | `outputs/` | The graphs (made when you run the project). |
 
@@ -38,14 +35,4 @@ It does this in two ways:
    F1 and the confusion matrix for classification. Also 5-fold cross-validation.
 8. Find the most important factors (permutation importance).
 9. Save the best models with Joblib and predict for new students.
-
-## How to run
-
-```
-python -m venv venv
-venv\Scripts\activate          (Linux/Mac: source venv/bin/activate)
-pip install -r ../requirements.txt
-python student_performance.py      # trains, evaluates and saves the models
-python predict.py                  # demo: predict for one student
-```
 
